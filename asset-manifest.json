@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QuizApp-React/static/css/main.9d714d93.css",
+    "main.js": "/QuizApp-React/static/js/main.7482b5aa.js",
+    "static/media/2.svg": "/QuizApp-React/static/media/2.aef2d9b8596ff7b68ff3.svg",
+    "static/media/6.svg": "/QuizApp-React/static/media/6.39948b0105cced21df56.svg",
+    "static/media/7.svg": "/QuizApp-React/static/media/7.ac0b5168659712a67682.svg",
+    "static/media/8.svg": "/QuizApp-React/static/media/8.77415ff5e1024eab95c6.svg",
+    "static/media/3.svg": "/QuizApp-React/static/media/3.5fdac13838d3320ac163.svg",
+    "static/media/5.svg": "/QuizApp-React/static/media/5.90f2300ac7ecf8fcc55a.svg",
+    "static/media/4.svg": "/QuizApp-React/static/media/4.143ef5c2dde3bb8053bf.svg",
+    "static/media/1.svg": "/QuizApp-React/static/media/1.64f4792cdb06c9852c49.svg",
+    "static/media/correct.mp3": "/QuizApp-React/static/media/correct.fb108c640f207649d860.mp3",
+    "static/media/Logo.svg": "/QuizApp-React/static/media/Logo.68fe9f21127c18c894ad317b8f247a16.svg",
+    "static/media/incorrect.mp3": "/QuizApp-React/static/media/incorrect.8ef2cd7af7e34c19ebee.mp3",
+    "static/media/JS.svg": "/QuizApp-React/static/media/JS.f719efab5b799ddc35b5055935a3cedd.svg",
+    "index.html": "/QuizApp-React/index.html",
+    "main.9d714d93.css.map": "/QuizApp-React/static/css/main.9d714d93.css.map",
+    "main.7482b5aa.js.map": "/QuizApp-React/static/js/main.7482b5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d714d93.css",
+    "static/js/main.7482b5aa.js"
+  ]
+}
